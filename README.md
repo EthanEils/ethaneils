@@ -60,8 +60,28 @@ With 4+ years architecting scalable systems—from enterprise data lakes to high
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-ethaneils-projects.vercel.app/api?username=EthanEils&show_icons=true&count_private=true&theme=default" alt="Ethan's GitHub Stats" />  
-  <img src="https://github-readme-stats-ethaneils-projects.vercel.app/api/top-langs/?username=EthanEils&layout=compact&theme=default" alt="Top Languages" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats-ethaneils-projects.vercel.app/api?username=EthanEils&show_icons=true&count_private=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-ethaneils-projects.vercel.app/api?username=EthanEils&show_icons=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-ethaneils-projects.vercel.app/api?username=EthanEils&show_icons=true&count_private=true" alt="Ethan's GitHub Stats" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats-ethaneils-projects.vercel.app/top-langs/api?username=EthanEils&show_icons=true&count_private=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-ethaneils-projects.vercel.app/top-langs/api?username=EthanEils&show_icons=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-ethaneils-projects.vercel.app/top-langs/api?username=EthanEils&show_icons=true&count_private=true" alt="Top Languages" />
+  </picture>
 </p>
 
 ---
