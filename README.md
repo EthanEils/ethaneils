@@ -60,8 +60,8 @@ With 4+ years architecting scalable systems—from enterprise data lakes to high
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-nxzbjvczg-ethaneils-projects.vercel.app/api?username=EthanEils&show_icons=true&count_private=true&theme=default" alt="Ethan's GitHub Stats" />  
-  <img src="https://github-readme-stats-nxzbjvczg-ethaneils-projects.vercel.app/api/top-langs/?username=EthanEils&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats-ethaneils-projects.vercel.app/api?username=EthanEils&show_icons=true&count_private=true&theme=default" alt="Ethan's GitHub Stats" />  
+  <img src="https://github-readme-stats-ethaneils-projects.vercel.app/api/top-langs/?username=EthanEils&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
