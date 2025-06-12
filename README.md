@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Los%20Angeles–CA–blue?logo=location-dot&logoColor=white" alt="Location Badge" />  
-  <a href="mailto:eilsethan0@gmail.com"><img src="https://img.shields.io/badge/Email–eilsethan0@gmail.com–green?logo=gmail&logoColor=white" alt="Email Badge" /></a>  
-  <a href="https://www.linkedin.com/in/ethan-eils/"><img src="https://img.shields.io/badge/LinkedIn–Ethan%20Eils–blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>  
-  <a href="https://github.com/EthanEils"><img src="https://img.shields.io/badge/GitHub–@EthanEils–black?logo=github&logoColor=white" alt="GitHub Badge" /></a>  
+  <img src="https://img.shields.io/badge/Los%20Angeles-CA-blue?logo=location-dot&logoColor=white" alt="Location Badge" />  
+  <a href="mailto:eilsethan0@gmail.com"><img src="https://img.shields.io/badge/Email-eilsethan0%40gmail.com-green?logo=gmail&logoColor=white" alt="Email Badge" /></a>  
+  <a href="https://www.linkedin.com/in/ethan-eils/"><img src="https://img.shields.io/badge/LinkedIn-Ethan%20Eils-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>  
+  <a href="https://github.com/EthanEils"><img src="https://img.shields.io/badge/GitHub-%40EthanEils-black?logo=github&logoColor=white" alt="GitHub Badge" /></a>  
 </p>
 
 # 👋 Hi, I’m Ethan Eils
@@ -60,8 +60,8 @@ With 4+ years architecting scalable systems—from enterprise data lakes to high
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EthanEils&show_icons=true&count_private=true&theme=default" alt="Ethan's GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanEils&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats-nxzbjvczg-ethaneils-projects.vercel.app/api?username=EthanEils&show_icons=true&count_private=true&theme=default" alt="Ethan's GitHub Stats" />  
+  <img src="https://github-readme-stats-nxzbjvczg-ethaneils-projects.vercel.app/api/top-langs/?username=EthanEils&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
