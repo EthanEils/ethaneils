@@ -73,14 +73,14 @@ With 4+ years architecting scalable systems—from enterprise data lakes to high
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats-ethaneils-projects.vercel.app/api/top-langs?username=EthanEils&exclude_repo=github-readme-stats&show_icons=true&count_private=true&theme=dark"
+      srcset="https://github-readme-stats-ethaneils-projects.vercel.app/api/top-langs?username=EthanEils&exclude_repo=github-readme-stats&show_icons=true&count_private=true&theme=dark&hide=javascript,css,scss,html"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-ethaneils-projects.vercel.app/api/top-langs?username=EthanEils&exclude_repo=github-readme-stats&show_icons=true&count_private=true"
+      srcset="https://github-readme-stats-ethaneils-projects.vercel.app/api/top-langs?username=EthanEils&exclude_repo=github-readme-stats&show_icons=true&count_private=true&hide=javascript,css,scss,html"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-ethaneils-projects.vercel.app/api/top-langs?username=EthanEils&exclude_repo=github-readme-stats&show_icons=true&count_private=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-ethaneils-projects.vercel.app/api/top-langs?username=EthanEils&exclude_repo=github-readme-stats&show_icons=true&count_private=true&hide=javascript,css,scss,html" alt="Top Languages" />
   </picture>
 </p>
 
